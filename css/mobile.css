@@ -1,0 +1,11 @@
+#header .header-container, #main-articles .articles-container {
+    grid-template-columns: 1fr;
+}
+
+.page-container {
+    grid-template-columns: 1fr;
+}
+
+.contact-form {
+    width: 100%;
+}
